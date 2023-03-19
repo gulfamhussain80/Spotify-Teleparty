@@ -1,0 +1,3 @@
+CLIENT_ID = "79e54f5628d64448b4ed4748a47b56af"
+CLIENT_SECRET = "de30df327f1d403e92f8a682d77ad37f"
+REDIRECT_URI = "http://127.0.0.1:8000/spotify/redirect"
